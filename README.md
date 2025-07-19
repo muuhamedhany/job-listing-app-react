@@ -38,15 +38,15 @@ Follow these steps to run the project locally:
    git clone https://github.com/your-username/react-jobs.git
    cd react-jobs
 2. Install dependencies:
-
+   ```bash
     npm install
 
 3. Start the mock API server:
-
+   ```bash
     npm run server
 
 4. Start the Vite development server:
-
+   ```bash
     npm run dev
 
 5. Open the app in your browser:
