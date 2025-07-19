@@ -1,8 +1,7 @@
 # 🚀 React Jobs - Job Listings for React Developers
 
 A modern and sleek web app built with **React**, **Vite**, **React Router**, and **Tailwind CSS** for browsing, posting, editing, and deleting React job listings.
-
-![React Jobs Preview](./screenshots/preview.png)
+<img width="1893" height="869" alt="image" src="https://github.com/user-attachments/assets/400ba6d2-dd73-4812-9947-466c6f08ad75" />
 
 ---
 
