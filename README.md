@@ -1,12 +1,72 @@
-# React + Vite
+# 🚀 React Jobs - Job Listings for React Developers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and sleek web app built with **React**, **Vite**, **React Router**, and **Tailwind CSS** for browsing, posting, editing, and deleting React job listings.
 
-Currently, two official plugins are available:
+![React Jobs Preview](./screenshots/preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Browse curated React job postings  
+- ➕ Add new jobs with full form validation  
+- 📝 Edit job details in-place  
+- ❌ Delete jobs easily  
+- ⚡ Super-fast and responsive (thanks to Vite + Tailwind)  
+- 🌐 Full React Router navigation  
+- 🎨 Clean and modern UI with Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **React Router DOM**
+- **JSON Server** (Mock API)
+
+---
+
+## ⚙️ Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the repo:**
+
+   ```bash
+   git clone https://github.com/your-username/react-jobs.git
+   cd react-jobs
+2. Install dependencies:
+
+    npm install
+
+3. Start the mock API server:
+
+    npm run server
+
+4. Start the Vite development server:
+
+    npm run dev
+
+5. Open the app in your browser:
+
+👉 Go to http://localhost:3000
+
+---
+
+📸 Screenshots
+🏠 Homepage
+<img width="980" height="752" alt="image" src="https://github.com/user-attachments/assets/30ff7aff-5ca7-4f10-9a18-6e8c8ae468f0" />
+
+Browse and filter through recent jobs.
+
+📝 Add Job
+<img width="781" height="865" alt="image" src="https://github.com/user-attachments/assets/6448d95a-ad9b-439b-a808-e1cb3bc77841" />
+
+Submit a new job listing using a clear and structured form.
+
+🔍 Job Details
+<img width="951" height="807" alt="image" src="https://github.com/user-attachments/assets/b00973ec-754f-47fc-a559-94d1599e6bab" />
+
+View the full details of each listing and manage it (edit/delete).
